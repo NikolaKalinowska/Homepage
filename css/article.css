@@ -1,0 +1,26 @@
+.section_title {
+    font-family: 'Dancing Script', cursive;
+}
+.article  {
+    display: flex;
+    flex: 1;
+    padding: 20px;
+}
+.table {
+    border-collapse: collapse;
+    margin: 0%;
+    width: 100%;
+}
+
+.tableCell_main {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    background-color: #a4b68f;
+}
+
+.tableCell {
+    border-style: solid;
+    border-color:black;
+    text-align: center;
+}
