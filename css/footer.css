@@ -1,5 +1,18 @@
-.footer  { 
-border-style: solid;
-background-color: #eef1eb;
-padding: 10px;
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Patrick Hand SC', cursive;
+    border-style: solid;
+    background-color: #eef1eb;
+    padding: 10px;
+    font-size: 15px;
+}
+.footer_list {
+    list-style: none;
+    font-family: 'Patrick Hand SC', cursive;
+    border-style: solid;
+    background-color: #eef1eb;
+    padding: 10px;
+    font-size: 15px;
 }
