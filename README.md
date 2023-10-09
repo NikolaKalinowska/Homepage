@@ -7,8 +7,9 @@ This is my first website. You will find some information about me on it.
  - CSS;
  - BEM;
  - JavaScript.
- - 
-![screen](https://github.com/NikolaKalinowska/Homepage/assets/135009477/b89c0441-7a06-401d-8171-5933f7d0953d)
+   
+
+![alt text for screen readers](https://github.com/NikolaKalinowska/Homepage/assets/135009477/2f4723b6-9702-481b-a6c9-8895a7565fc9)
 
 ## Demo
 [See the project]( https://nikolakalinowska.github.io/Homepage/)
