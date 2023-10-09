@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    color: #283618;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.logo_container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.logo_image {
+    width: auto;
+    height: 100px;
+}
+
+
+
+.navbar {
+    display: flex;
+    background-color: #283618;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    margin: 0%;
+    width: 100%;
+}
+
+.tableCell_main {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    background-color: #e6ccb2;
+}
+
+.tableCell {
+    border-style: solid;
+    border-color:black;
+    text-align: center;
+}
