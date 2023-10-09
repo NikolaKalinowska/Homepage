@@ -1,3 +1,10 @@
+.background {
+    background-color; #faf9f9;
+}
+
+.dark {
+    background-color: #c3c9c3;
+}
 .header {
     display: flex;
     justify-content: space-between;
