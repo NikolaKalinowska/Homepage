@@ -12,3 +12,5 @@ button.addEventListener("click", () => {
         themeName.innerText = "CIEMNY";
     }
 });
+
+function
